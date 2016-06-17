@@ -8,6 +8,8 @@
 ######使用前说明######
 - 如果你的python环境中没有包含requests库，需要先去包涵此库 pip install requests(如果出现问题请以sudo根用户权限输入命令)
 在包含此库的时候需要pip
+- 个人证书相关的信息请在exportOptions.plist里面进行修改
+- 还需要修改你需要上传到蒲公英的地址，如果不进行将会传到我的地址里面
 
 ######文件目录说明######
 - name.xcarchive文件在auto_build文件夹下
