@@ -17,7 +17,7 @@
 - name.ipa文件也在auto_build文件夹下
 - UploadToPgy的python文件放在auto_build目录下
 
-## 对于uploadToPgy.py 的说明##
+## 对于uploadToPgy.py 的说明 ##
 - 由于python源代码也是一个文本文件，所以，当你源代码中包含中文的时候，在保存源代码时，就需要务必指定保存为utf-8编码。
 
 - 当python读取源代码的时候，为了让它按utf-8编码读取。我们通常在文件开头写上上面两行代码
